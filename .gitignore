@@ -1,0 +1,13 @@
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# IDE settings
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
